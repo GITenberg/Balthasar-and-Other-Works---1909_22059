@@ -1,0 +1,43 @@
+_repo: Balthasar-and-Other-Works---1909_22059
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lane, John, Mrs.
+    aliases:
+    - King, Anna Eichberg
+    - Lane, Anna Eichberg
+    - Lane, Mrs. John
+    gutenberg_agent_id: '31311'
+    url: http://www.gutenberg.org/2009/agents/31311
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Anatole
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+tableOfContents: "Balthasar\r\nThe Curé's Mignonette\r\nM. Pigeonneau\r\nThe Daughter\
+  \ Of Lilith\r\nLaeta Acilia\r\nThe Red Egg"
+title: Balthasar and Other Works - 1909
+url: http://www.gutenberg.org/ebooks/22059
